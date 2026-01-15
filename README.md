@@ -1,19 +1,6 @@
-# Módulo 3 - Trilha HTML
+# Projeto para formação em HTML da DIO
+<p>Nesse projeto, busquei refazer uma página do site Wikipédia — não copiar, mas dar uma "nova cara", que era o objetivo do projeto. É uma página simples, com aplicações básicas de CSS, pois o foco da formação é o HTML. Utilizei como tema uma das minhas séries de TV preferidas: Sons of Anarchy.</p>
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+* Durante o projeto, pude pôr em prática conhecimentos adquiridos em HTML semântico, buscando adequar a página às recomendações de acessibilidade impostas pela W3C e já me adaptando às boas práticas de programação. <br>
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
-
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
-
-
+<a href="https://machado1998.github.io/wikiDio/"> Acesse o site aqui</a>
