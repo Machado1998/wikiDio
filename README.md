@@ -3,4 +3,4 @@
 
 * Durante o projeto, pude pôr em prática conhecimentos adquiridos em HTML semântico, buscando adequar a página às recomendações de acessibilidade impostas pela W3C e já me adaptando às boas práticas de programação. <br>
 
-<a href="https://machado1998.github.io/wikiDio/"> Acesse o site aqui</a>
+<a href="https://machado1998.github.io/wikiDio/" target="_blank" rel="noopener noreferrer"> Acesse o site aqui</a>
